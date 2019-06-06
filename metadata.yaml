@@ -1,0 +1,24 @@
+_repo: The-Happy-Herd_59588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: http://en.wikipedia.org/wiki/Bryce_Walton
+description: ''
+gutenberg_issued: '2019-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Happy Herd
+url: http://www.gutenberg.org/ebooks/59588
